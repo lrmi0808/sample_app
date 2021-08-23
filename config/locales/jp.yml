@@ -1,0 +1,24 @@
+jp:
+  title: "サンプルアプリ"
+
+  greet1: "これは"
+  greet2: "のサンプルアプリのホームページとなっています。"
+
+  greet3: "お助けを求めている方はこちらへ"
+  greet4: "サンプルアプリに関するご質問はこちらで"
+
+
+  home: "ホーム"
+  help: "ヘルプ"
+  log_in: "ログイン"
+
+  full_stop: "。"
+
+  english: "英語"
+  japanese: "日本語"
+
+  en_switch: "英語に切り替える"
+  jp_switch: "日本語に切り替える"
+
+  rails_help: "Railsチュートリアルヘルプページ"
+  rails_tuto: "Ruby on Railsチュートリアル"

@@ -1,0 +1,9 @@
+<li><%= link_to t(:users), user_path %></li>
+
+<%= content_tag :li do %>
+  <%= link_to t(:en_switch),locale:en %>
+<%= end unless current_page? (locale:en) %>
+
+<%= content_tag :li do %>
+  <%= link_to t(:jp_switch),locale:jp %>
+<%= end unless current_page? (locale:jp) %>
