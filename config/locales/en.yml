@@ -30,4 +30,25 @@
 # available at https://guides.rubyonrails.org/i18n.html.
 
 en:
-  hello: "Hello world"
+  title: "Sample App"
+
+  greet1: "This is the home page for the "
+  greet2: " sample application."
+
+  greet3: "Get help on the Ruby on Rails Tutorial at the "
+  greet4: "To get help on this sample app, see the "
+
+  home: "Home"
+  help: "Help"
+  log_in: "Log in"
+
+  full_stop: "."
+
+  english: "English"
+  japanese: "Japanese"
+
+  en_switch: "Swith to English"
+  jp_switch: "Swith to Japanese"
+
+  rails_help: "Rails Tutorial Help Page"
+  rails_tuto: "Ruby on Rails Tutorial"
