@@ -22,3 +22,14 @@ jp:
 
   rails_help: "Railsチュートリアルヘルプページ"
   rails_tuto: "Ruby on Railsチュートリアル"
+
+  sign_up: "サインアップ"
+  confirmation: "パスワード確認"
+  create_my_account: "アカウント作成"
+
+  name: "氏名"
+  email: "メールアドレス"
+  password: "パスワード"
+
+  user_not_found: "ユーザーが見つかりません"
+  welcome_greet: "サンプルアプリへようこそ！"
