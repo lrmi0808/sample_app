@@ -10,6 +10,7 @@ en:
   home: "Home"
   help: "Help"
   log_in: "Log in"
+  log_out: "Log out"
 
   full_stop: "."
 
@@ -32,3 +33,11 @@ en:
 
   user_not_found: "User not found"
   welcome_greet: "Welcome to the sample app!"
+
+  invalid_email_password: "Invalid email/password!"
+  new_user: "New user"
+  sign_up_now: "Sign up now"
+
+  account: "Account"
+  profile: "Profile"
+  setting: "Setting"
