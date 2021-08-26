@@ -11,6 +11,7 @@ jp:
   home: "ホーム"
   help: "ヘルプ"
   log_in: "ログイン"
+  log_out: "ログアウト"
 
   full_stop: "。"
 
@@ -33,3 +34,12 @@ jp:
 
   user_not_found: "ユーザーが見つかりません"
   welcome_greet: "サンプルアプリへようこそ！"
+
+  invalid_email_password: "メールアドレスまたはパスワードが正しくないです。"
+  new_user: "新ユーザー"
+  sign_up_now: "今すぐサインアップ"
+
+  account: "アカウント"
+  profile: "プロフィル"
+  setting: "設定"
+
