@@ -6,11 +6,11 @@ en:
 
   greet3: "Get help on the Ruby on Rails Tutorial at the "
   greet4: "To get help on this sample app, see the "
-
   home: "Home"
   help: "Help"
   log_in: "Log in"
   log_out: "Log out"
+  users: "Users"
 
   full_stop: "."
 
@@ -43,3 +43,16 @@ en:
   setting: "Setting"
 
   remember: "Remember me on this computer"
+
+  edit_user: "Edit user"
+  save_changes: "Save changes"
+  profile_update: "Profile update"
+  profile_updated: "Profile updated"
+  please_log_in: "Please log in"
+  user_deleted: "User deleted"
+  delete_fail: "Delete failed"
+  not_authorized: "Not authorized"
+  delete: "Delete"
+  sure: "Sure?"
+  all_users: "All users"
+  change: "Change"
