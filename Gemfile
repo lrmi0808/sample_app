@@ -15,7 +15,7 @@ gem 'sass-rails', '>= 6'
 gem 'webpacker', '~> 5.0'
 
 #bootstrap
-gem 'bootstrap-sass', '3.4.1'
+gem 'bootstrap-sass'
 
 #jquery
 gem 'jquery-rails'

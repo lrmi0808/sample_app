@@ -56,3 +56,12 @@ en:
   sure: "Sure?"
   all_users: "All users"
   change: "Change"
+
+  account_activation: "Account activation"
+  account_activation_text: "Welcome to the Sample App! Click on the link below to activate your account:"
+  hi: "Hi"
+  activate:  "Activate"
+  check_email: "Please check your email to activate your account."
+  account_activated: "Account activated!"
+  invalid_activation: "Invalid activation link"
+  account_not_activated: "Account not activated. Check you email for the activation link."
