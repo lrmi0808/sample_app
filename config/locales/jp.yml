@@ -58,3 +58,12 @@ jp:
   sure: "いいの？"
   all_users: "全員"
   change: "変更"
+
+  account_activation: "アカウント開設"
+  account_activation_text: "サンプルアプリへようこそ！以下のリンクをクリックして、アカウントをアクティブ化してください。"
+  hi: "こんにちは"
+  activate:  "開設"
+  check_email: "メールをチェックしてアカウントを有効にしてください。"
+  account_activated: "アカウントが有効になりました！"
+  invalid_activation: "無効なアクティベーションリンク"
+  account_not_activated: "アカウントがアクティブ化されていません。アクティベーションリンクについては、メールを確認してください。"
