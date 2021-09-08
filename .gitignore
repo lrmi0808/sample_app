@@ -41,3 +41,6 @@ yarn-debug.log*
 
 #Original config file
 /config/database.yml
+
+#Ignore uploaded test image
+/storage

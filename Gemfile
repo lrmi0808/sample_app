@@ -31,6 +31,9 @@ gem 'bcrypt', '~> 3.1.7'
 
 gem "will_paginate"
 gem "bootstrap-will_paginate"
+gem "image_processing"
+gem "mini_magick"
+gem "active_storage_validations"
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
