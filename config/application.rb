@@ -22,6 +22,6 @@ module SampleApp
     config.i18n.available_locales = [:en, :jp]
     config.i18n.default_locale = :en
     config.i18n.fallbacks = true
-
+    config.action_view.embed_authenticity_token_in_remote_forms = true
   end
 end
