@@ -5,11 +5,18 @@ class ApplicationController < ActionController::Base
 
   def set_locale
     I18n.locale = params[:locale] || I18n.default_locale
-    #current_user.locale
-    #request.env["HTTP_ACCPET LANGUAGE"]
   end
 
   def default_url_options(options = {})
     {locale:I18n.locale}.merge options
+  end
+
+  private
+  def logged_in_user
+    unless logged_in?
+      store_location
+      flash[:danger] = t("please_log_in")
+      redirect_to login_url
+    end
   end
 end
